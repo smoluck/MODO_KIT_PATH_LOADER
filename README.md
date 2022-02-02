@@ -11,4 +11,4 @@ Then edit the PATH_LOADER.cfg in KIT_PATH_LOADER/Config.
 Change " C:/PATH_OF_KITS_FOLDER_WHERE_YOUR_OWN_KITS_ARE_LOACTED " to your own Localpath or even an address over internet.
 
 Best regards,
-Franck Elisaebth
+Franck Elisabeth
