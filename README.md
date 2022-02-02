@@ -8,7 +8,7 @@ To define your own kits path, you have to put this kit "KIT_PATH_LOADER" into yo
 
 Then edit the PATH_LOADER.cfg in KIT_PATH_LOADER/Config.
 
-Change " C:/PATH_OF_KITS_FOLDER_WHERE_YOUR_OWN_KITS_ARE_LOACTED " to your own Localpath or even an address over internet.
+Change " C:/PATH_OF_KITS_FOLDER_WHERE_YOUR_OWN_KITS_ARE_LOCATED " to your own Localpath or even an address over internet.
 
 Best regards,
 Franck Elisabeth
