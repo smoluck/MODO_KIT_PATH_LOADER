@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="1500">
+	<kit name="KIT_PATH_LOADER" restart="YES">
+		<source target="KIT_PATH_LOADER/index.cfg">index.cfg</source>
+		<source target="KIT_PATH_LOADER/Config/PATH_LOADER.cfg">Config/PATH_LOADER.cfg</source>
+	</kit>
+	<message button="Help">You successfully installed KIT PATH LOADER Kit &#10; &#10;Best regards,&#10;Franck Elisabeth&#10; &#10;</message>
+</package>
